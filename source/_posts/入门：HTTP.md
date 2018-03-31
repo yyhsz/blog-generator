@@ -4,9 +4,9 @@ date: 2018-03-31 19:36:45
 tags: 前端
 ---
 
-##http入门
+## http入门
 
-####一些零碎的知识点
+#### 一些零碎的知识点
 - www:world wide web,万维网之父：Tim Berners-Lee
 
 - URI(统一资源标识符):uniform resource identifier
@@ -28,7 +28,7 @@ uri是url和urn的统称,URN定义某事物的身份，而URL提供查找该事�
 - 修改host文件可以暂时科学上网
 - .com , .cn , .mobi etc 是顶级（一级）域名 ； xxx是二级域名 ；www.   是三级域名 ； （交流中默认xxx是一级域名）
 
-##请求与响应
+## 请求与响应
 
 ![请求与响应](https://i.loli.net/2018/03/31/5abf72dfc38cb.jpg)
 http协议下服务器与浏览器一般是单项访问，如同打乒乓
